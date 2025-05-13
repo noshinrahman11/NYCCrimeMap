@@ -1,0 +1,296 @@
+neighborhood,neighborhood_ascii,lat,lng,city_name,city_id,state_name,state_id,source,timezone,zips,county_fips,county_name,id
+Marble Hill,Marble Hill,40.87597,-73.91038,New York,1840034016,New York,NY,polygon,America/New_York,10463,36061,New York,184003401611100
+Randall's Island,Randall's Island,40.79101,-73.9246,New York,1840034016,New York,NY,polygon,America/New_York,10035,36061,New York,184003401611101
+Roosevelt Island,Roosevelt Island,40.76192,-73.94993,New York,1840034016,New York,NY,polygon,America/New_York,10044,36061,New York,184003401611102
+Inwood,Inwood,40.86865,-73.92138,New York,1840034016,New York,NY,polygon,America/New_York,10034,36061,New York,184003401611103
+Morningside Heights,Morningside Heights,40.80947,-73.96205,New York,1840034016,New York,NY,polygon,America/New_York,10026 10027 10025 10115,36061,New York,184003401611104
+East Harlem,East Harlem,40.79688,-73.94061,New York,1840034016,New York,NY,polygon,America/New_York,10029 10035 10037,36061,New York,184003401611105
+Central Park,Central Park,40.78248,-73.96557,New York,1840034016,New York,NY,polygon,America/New_York,10029 10024 10023,36061,New York,184003401611106
+Civic Center,Civic Center,40.71379,-74.00287,New York,1840034016,New York,NY,polygon,America/New_York,10007 10038 10013 10278,36061,New York,184003401611107
+Tribeca,Tribeca,40.71944,-74.00866,New York,1840034016,New York,NY,polygon,America/New_York,10007 10013,36061,New York,184003401611108
+Two Bridges,Two Bridges,40.71125,-73.99241,New York,1840034016,New York,NY,polygon,America/New_York,10002 10038,36061,New York,184003401611109
+Chinatown,Chinatown,40.71576,-73.99556,New York,1840034016,New York,NY,polygon,America/New_York,10002 10013,36061,New York,184003401611110
+Fort George,Fort George,40.85704,-73.93155,New York,1840034016,New York,NY,polygon,America/New_York,10040 10034 10033,36061,New York,184003401611111
+Harlem,Harlem,40.81677,-73.94755,New York,1840034016,New York,NY,polygon,America/New_York,10026 10027 10039 10037 10031 10030,36061,New York,184003401611112
+Washington Heights,Washington Heights,40.84114,-73.9399,New York,1840034016,New York,NY,polygon,America/New_York,10039 10033 10032,36061,New York,184003401611113
+Upper East Side,Upper East Side,40.7728,-73.95651,New York,1840034016,New York,NY,polygon,America/New_York,10128 10162 10028 10022 10021 10065 10075,36061,New York,184003401611114
+Upper West Side,Upper West Side,40.78712,-73.97615,New York,1840034016,New York,NY,polygon,America/New_York,10024 10025 10023 10069,36061,New York,184003401611115
+Hell's Kitchen,Hell's Kitchen,40.76273,-73.99393,New York,1840034016,New York,NY,polygon,America/New_York,10001 10036 10019 10018,36061,New York,184003401611116
+Sutton Place,Sutton Place,40.7571,-73.96183,New York,1840034016,New York,NY,polygon,America/New_York,10022,36061,New York,184003401611117
+Midtown,Midtown,40.75509,-73.97612,New York,1840034016,New York,NY,polygon,America/New_York,10103 10169 10167 10022 10020 10001 10112 10110 10111 10152 10153 10154 10170 10171 10172 10173 10174 10177 10036 10019 10018 10017 10016,36061,New York,184003401611118
+Theater District,Theater District,40.75918,-73.98466,New York,1840034016,New York,NY,polygon,America/New_York,10020 10036 10019,36061,New York,184003401611119
+Garment District,Garment District,40.75287,-73.98923,New York,1840034016,New York,NY,polygon,America/New_York,10001 10018,36061,New York,184003401611120
+Murray Hill (Manhattan),Murray Hill (Manhattan),40.74792,-73.97547,New York,1840034016,New York,NY,polygon,America/New_York,10168 10165 10017 10016,36061,New York,184003401611121
+Kips Bay,Kips Bay,40.74071,-73.9775,New York,1840034016,New York,NY,polygon,America/New_York,10010 10016,36061,New York,184003401611122
+Stuyvesant Town,Stuyvesant Town,40.73187,-73.97666,New York,1840034016,New York,NY,polygon,America/New_York,10009 10010,36061,New York,184003401611123
+Gramercy,Gramercy,40.73645,-73.98725,New York,1840034016,New York,NY,polygon,America/New_York,10003 10011 10010,36061,New York,184003401611124
+Flatiron District,Flatiron District,40.7414,-73.98892,New York,1840034016,New York,NY,polygon,America/New_York,10010,36061,New York,184003401611125
+East Village,East Village,40.72812,-73.98707,New York,1840034016,New York,NY,polygon,America/New_York,10003 10009,36061,New York,184003401611126
+Chelsea,Chelsea,40.74736,-74.0004,New York,1840034016,New York,NY,polygon,America/New_York,10001 10199 10119 10011,36061,New York,184003401611127
+NoHo,NoHo,40.72705,-73.99337,New York,1840034016,New York,NY,polygon,America/New_York,10003 10012,36061,New York,184003401611128
+Hudson Square,Hudson Square,40.7268,-74.00811,New York,1840034016,New York,NY,polygon,America/New_York,10013 10014,36061,New York,184003401611129
+West Village,West Village,40.73555,-74.00676,New York,1840034016,New York,NY,polygon,America/New_York,10014,36061,New York,184003401611130
+Greenwich Village,Greenwich Village,40.73199,-73.99751,New York,1840034016,New York,NY,polygon,America/New_York,10003 10012 10011 10014,36061,New York,184003401611131
+Battery Park City,Battery Park City,40.71028,-74.01604,New York,1840034016,New York,NY,polygon,America/New_York,10004 10282 10280,36061,New York,184003401611132
+Financial District,Financial District,40.708,-74.0092,New York,1840034016,New York,NY,polygon,America/New_York,10004 10005 10006 10007 10038 10271 10279,36061,New York,184003401611133
+Little Italy,Little Italy,40.71938,-73.99846,New York,1840034016,New York,NY,polygon,America/New_York,10013,36061,New York,184003401611134
+SoHo,SoHo,40.72386,-74.00096,New York,1840034016,New York,NY,polygon,America/New_York,10013 10012,36061,New York,184003401611135
+Nolita,Nolita,40.72234,-73.99519,New York,1840034016,New York,NY,polygon,America/New_York,10012,36061,New York,184003401611136
+Alphabet City,Alphabet City,40.72425,-73.97818,New York,1840034016,New York,NY,polygon,America/New_York,10009,36061,New York,184003401611137
+Lower East Side,Lower East Side,40.71697,-73.98384,New York,1840034016,New York,NY,polygon,America/New_York,10002,36061,New York,184003401611138
+Tottenville,Tottenville,40.50801,-74.24219,New York,1840034016,New York,NY,polygon,America/New_York,10307,36085,Richmond,184003401611139
+Richmond Valley,Richmond Valley,40.51612,-74.23041,New York,1840034016,New York,NY,polygon,America/New_York,10309,36085,Richmond,184003401611140
+Prince's Bay,Prince's Bay,40.52474,-74.20077,New York,1840034016,New York,NY,polygon,America/New_York,10309,36085,Richmond,184003401611141
+Charleston,Charleston,40.53947,-74.23333,New York,1840034016,New York,NY,polygon,America/New_York,10309,36085,Richmond,184003401611142
+Woodrow,Woodrow,40.54148,-74.21094,New York,1840034016,New York,NY,polygon,America/New_York,10309,36085,Richmond,184003401611143
+Eltingville,Eltingville,40.54454,-74.16356,New York,1840034016,New York,NY,polygon,America/New_York,10312,36085,Richmond,184003401611144
+Bay Terrace (Staten Island),Bay Terrace (Staten Island),40.55618,-74.13533,New York,1840034016,New York,NY,polygon,America/New_York,10308 10306,36085,Richmond,184003401611145
+Oakwood Beach,Oakwood Beach,40.55406,-74.11259,New York,1840034016,New York,NY,polygon,America/New_York,10306,36085,Richmond,184003401611146
+Great Kills Park,Great Kills Park,40.54587,-74.12839,New York,1840034016,New York,NY,polygon,America/New_York,10308,36085,Richmond,184003401611147
+Port Richmond,Port Richmond,40.63186,-74.13742,New York,1840034016,New York,NY,polygon,America/New_York,10302,36085,Richmond,184003401611148
+Lighthouse Hill,Lighthouse Hill,40.57857,-74.13649,New York,1840034016,New York,NY,polygon,America/New_York,10306,36085,Richmond,184003401611149
+Sea View,Sea View,40.59197,-74.12901,New York,1840034016,New York,NY,polygon,America/New_York,10314 10306,36085,Richmond,184003401611150
+Midland Beach,Midland Beach,40.57513,-74.09305,New York,1840034016,New York,NY,polygon,America/New_York,10306 10305,36085,Richmond,184003401611151
+Grant City,Grant City,40.5804,-74.10603,New York,1840034016,New York,NY,polygon,America/New_York,10306,36085,Richmond,184003401611152
+Ocean Breeze,Ocean Breeze,40.58162,-74.08203,New York,1840034016,New York,NY,polygon,America/New_York,10305,36085,Richmond,184003401611153
+South Beach,South Beach,40.59144,-74.07329,New York,1840034016,New York,NY,polygon,America/New_York,10305,36085,Richmond,184003401611154
+Dongan Hills,Dongan Hills,40.59102,-74.10009,New York,1840034016,New York,NY,polygon,America/New_York,10305 10304,36085,Richmond,184003401611155
+Fort Wadsworth,Fort Wadsworth,40.60323,-74.06053,New York,1840034016,New York,NY,polygon,America/New_York,10305,36085,Richmond,184003401611156
+Rosebank,Rosebank,40.6123,-74.07065,New York,1840034016,New York,NY,polygon,America/New_York,10305,36085,Richmond,184003401611157
+Arrochar,Arrochar,40.60033,-74.06747,New York,1840034016,New York,NY,polygon,America/New_York,10305,36085,Richmond,184003401611158
+Concord,Concord,40.6067,-74.08858,New York,1840034016,New York,NY,polygon,America/New_York,10304,36085,Richmond,184003401611159
+Silver Lake,Silver Lake,40.62662,-74.09706,New York,1840034016,New York,NY,polygon,America/New_York,10301,36085,Richmond,184003401611160
+Meiers Corners,Meiers Corners,40.60534,-74.13067,New York,1840034016,New York,NY,polygon,America/New_York,10314,36085,Richmond,184003401611161
+Brighton Heights,Brighton Heights,40.63385,-74.0944,New York,1840034016,New York,NY,polygon,America/New_York,10301,36085,Richmond,184003401611162
+Egbertville,Egbertville,40.58106,-74.12765,New York,1840034016,New York,NY,polygon,America/New_York,10306,36085,Richmond,184003401611163
+Todt Hill,Todt Hill,40.60109,-74.11038,New York,1840034016,New York,NY,polygon,America/New_York,10306 10304 10301,36085,Richmond,184003401611164
+Grasmere,Grasmere,40.60121,-74.08132,New York,1840034016,New York,NY,polygon,America/New_York,10305 10304,36085,Richmond,184003401611165
+Shore Acres,Shore Acres,40.60962,-74.06047,New York,1840034016,New York,NY,polygon,America/New_York,10305,36085,Richmond,184003401611166
+West Brighton,West Brighton,40.63062,-74.11638,New York,1840034016,New York,NY,polygon,America/New_York,10310 10301,36085,Richmond,184003401611167
+Tompkinsville,Tompkinsville,40.63516,-74.08085,New York,1840034016,New York,NY,polygon,America/New_York,10304 10301,36085,Richmond,184003401611168
+St. George,St. George,40.64315,-74.07754,New York,1840034016,New York,NY,polygon,America/New_York,10301,36085,Richmond,184003401611169
+Clifton,Clifton,40.61754,-74.07786,New York,1840034016,New York,NY,polygon,America/New_York,10304,36085,Richmond,184003401611170
+Stapleton,Stapleton,40.62473,-74.08072,New York,1840034016,New York,NY,polygon,America/New_York,10304,36085,Richmond,184003401611171
+Randall Manor,Randall Manor,40.6396,-74.10317,New York,1840034016,New York,NY,polygon,America/New_York,10310 10301,36085,Richmond,184003401611172
+Ward Hill,Ward Hill,40.63368,-74.08201,New York,1840034016,New York,NY,polygon,America/New_York,10304 10301,36085,Richmond,184003401611173
+New Brighton,New Brighton,40.64165,-74.08958,New York,1840034016,New York,NY,polygon,America/New_York,10301,36085,Richmond,184003401611174
+Grymes Hill,Grymes Hill,40.61886,-74.09174,New York,1840034016,New York,NY,polygon,America/New_York,10304 10301,36085,Richmond,184003401611175
+Mariner's Harbor,Mariner's Harbor,40.63294,-74.17121,New York,1840034016,New York,NY,polygon,America/New_York,10303,36085,Richmond,184003401611176
+Elm Park,Elm Park,40.63332,-74.1479,New York,1840034016,New York,NY,polygon,America/New_York,10303,36085,Richmond,184003401611177
+Sunnyside (Staten Island),Sunnyside (Staten Island),40.61425,-74.10549,New York,1840034016,New York,NY,polygon,America/New_York,10301,36085,Richmond,184003401611178
+Castleton Corners,Castleton Corners,40.61171,-74.1181,New York,1840034016,New York,NY,polygon,America/New_York,10314 10301,36085,Richmond,184003401611179
+Graniteville,Graniteville,40.61679,-74.15912,New York,1840034016,New York,NY,polygon,America/New_York,10314 10303,36085,Richmond,184003401611180
+Westerleigh,Westerleigh,40.61747,-74.13677,New York,1840034016,New York,NY,polygon,America/New_York,10314 10302,36085,Richmond,184003401611181
+Bulls Head,Bulls Head,40.60188,-74.16656,New York,1840034016,New York,NY,polygon,America/New_York,10314,36085,Richmond,184003401611182
+Emerson Hill,Emerson Hill,40.6077,-74.097,New York,1840034016,New York,NY,polygon,America/New_York,10304 10301,36085,Richmond,184003401611183
+Willowbrook,Willowbrook,40.60286,-74.14844,New York,1840034016,New York,NY,polygon,America/New_York,10314,36085,Richmond,184003401611184
+Great Kills,Great Kills,40.55161,-74.14974,New York,1840034016,New York,NY,polygon,America/New_York,10308,36085,Richmond,184003401611185
+Travis - Chelsea,Travis - Chelsea,40.59125,-74.19022,New York,1840034016,New York,NY,polygon,America/New_York,10314,36085,Richmond,184003401611186
+Rossville,Rossville,40.54331,-74.21629,New York,1840034016,New York,NY,polygon,America/New_York,10309,36085,Richmond,184003401611187
+Pleasant Plains,Pleasant Plains,40.51807,-74.21756,New York,1840034016,New York,NY,polygon,America/New_York,10309,36085,Richmond,184003401611188
+Annadale,Annadale,40.54013,-74.17752,New York,1840034016,New York,NY,polygon,America/New_York,10312,36085,Richmond,184003401611189
+Oakwood,Oakwood,40.56242,-74.12663,New York,1840034016,New York,NY,polygon,America/New_York,10306,36085,Richmond,184003401611190
+Richmond,Richmond,40.57011,-74.14049,New York,1840034016,New York,NY,polygon,America/New_York,10306,36085,Richmond,184003401611191
+New Dorp,New Dorp,40.57376,-74.11683,New York,1840034016,New York,NY,polygon,America/New_York,10306 10304,36085,Richmond,184003401611192
+Bloomfield,Bloomfield,40.6172,-74.18601,New York,1840034016,New York,NY,polygon,America/New_York,10311 10314,36085,Richmond,184003401611193
+Arden Heights,Arden Heights,40.55641,-74.19399,New York,1840034016,New York,NY,polygon,America/New_York,10312,36085,Richmond,184003401611194
+Huguenot,Huguenot,40.5369,-74.19302,New York,1840034016,New York,NY,polygon,America/New_York,10312,36085,Richmond,184003401611195
+Greenridge,Greenridge,40.56108,-74.17921,New York,1840034016,New York,NY,polygon,America/New_York,10312,36085,Richmond,184003401611196
+Freshkills Park,Freshkills Park,40.57466,-74.18656,New York,1840034016,New York,NY,polygon,America/New_York,10312 10314,36085,Richmond,184003401611197
+New Dorp Beach,New Dorp Beach,40.56419,-74.10233,New York,1840034016,New York,NY,polygon,America/New_York,10306,36085,Richmond,184003401611198
+Astoria,Astoria,40.76357,-73.92304,New York,1840034016,New York,NY,polygon,America/New_York,11101 11102 11103 11106,36081,Queens,184003401611199
+LaGuardia Airport,LaGuardia Airport,40.77453,-73.87326,New York,1840034016,New York,NY,polygon,America/New_York,11371,36081,Queens,184003401611200
+Breezy Point,Breezy Point,40.55451,-73.92529,New York,1840034016,New York,NY,polygon,America/New_York,11697,36081,Queens,184003401611201
+Astoria Heights,Astoria Heights,40.77023,-73.89281,New York,1840034016,New York,NY,polygon,America/New_York,11370,36081,Queens,184003401611202
+Ditmars Steinway,Ditmars Steinway,40.77857,-73.9077,New York,1840034016,New York,NY,polygon,America/New_York,11105 11102,36081,Queens,184003401611203
+Sunnyside (Queens),Sunnyside (Queens),40.74011,-73.92767,New York,1840034016,New York,NY,polygon,America/New_York,11101 11104 11378 11377,36081,Queens,184003401611204
+Long Island City,Long Island City,40.74962,-73.94352,New York,1840034016,New York,NY,polygon,America/New_York,11101 11109 11106,36081,Queens,184003401611205
+College Point,College Point,40.7815,-73.84174,New York,1840034016,New York,NY,polygon,America/New_York,11356 11354,36081,Queens,184003401611206
+Bay Terrace (Queens),Bay Terrace (Queens),40.78312,-73.77943,New York,1840034016,New York,NY,polygon,America/New_York,11360,36081,Queens,184003401611207
+Hollis Hills,Hollis Hills,40.73295,-73.75469,New York,1840034016,New York,NY,polygon,America/New_York,11364 11427,36081,Queens,184003401611208
+Floral Park,Floral Park,40.74054,-73.70777,New York,1840034016,New York,NY,polygon,America/New_York,11001 11004 11040,36081,Queens,184003401611209
+Fresh Meadows,Fresh Meadows,40.73477,-73.77991,New York,1840034016,New York,NY,polygon,America/New_York,11366 11365 11423,36081,Queens,184003401611210
+Little Neck,Little Neck,40.77322,-73.74598,New York,1840034016,New York,NY,polygon,America/New_York,11363,36081,Queens,184003401611211
+Malba,Malba,40.7891,-73.82844,New York,1840034016,New York,NY,polygon,America/New_York,11357 11356,36081,Queens,184003401611212
+Murray Hill (Queens),Murray Hill (Queens),40.76777,-73.80868,New York,1840034016,New York,NY,polygon,America/New_York,11358 11354,36081,Queens,184003401611213
+Pomonok,Pomonok,40.73302,-73.80998,New York,1840034016,New York,NY,polygon,America/New_York,11367 11365,36081,Queens,184003401611214
+Glen Oaks,Glen Oaks,40.7505,-73.71774,New York,1840034016,New York,NY,polygon,America/New_York,11004 11426 11005,36081,Queens,184003401611215
+Beechhurst,Beechhurst,40.791,-73.80112,New York,1840034016,New York,NY,polygon,America/New_York,11357,36081,Queens,184003401611216
+Whitestone,Whitestone,40.78441,-73.80823,New York,1840034016,New York,NY,polygon,America/New_York,11360 11357,36081,Queens,184003401611217
+Auburndale,Auburndale,40.75015,-73.78978,New York,1840034016,New York,NY,polygon,America/New_York,11365 11361 11358,36081,Queens,184003401611218
+Briarwood,Briarwood,40.71195,-73.81414,New York,1840034016,New York,NY,polygon,America/New_York,11432 11435,36081,Queens,184003401611219
+Queens Village,Queens Village,40.71562,-73.74334,New York,1840034016,New York,NY,polygon,America/New_York,11429 11428 11427,36081,Queens,184003401611220
+Howard Beach,Howard Beach,40.65791,-73.84486,New York,1840034016,New York,NY,polygon,America/New_York,11414,36081,Queens,184003401611221
+Holliswood,Holliswood,40.7211,-73.76918,New York,1840034016,New York,NY,polygon,America/New_York,11423,36081,Queens,184003401611222
+Hollis,Hollis,40.7125,-73.76397,New York,1840034016,New York,NY,polygon,America/New_York,11412 11423,36081,Queens,184003401611223
+Cambria Heights,Cambria Heights,40.69485,-73.73548,New York,1840034016,New York,NY,polygon,America/New_York,11411,36081,Queens,184003401611224
+Jamaica Hills,Jamaica Hills,40.71333,-73.79943,New York,1840034016,New York,NY,polygon,America/New_York,11432,36081,Queens,184003401611225
+Jamaica Estates,Jamaica Estates,40.71939,-73.78429,New York,1840034016,New York,NY,polygon,America/New_York,11432,36081,Queens,184003401611226
+Laurelton,Laurelton,40.67728,-73.74372,New York,1840034016,New York,NY,polygon,America/New_York,11413 11422,36081,Queens,184003401611227
+Springfield Gardens,Springfield Gardens,40.67191,-73.77346,New York,1840034016,New York,NY,polygon,America/New_York,11434 11413,36081,Queens,184003401611228
+Rosedale,Rosedale,40.66285,-73.73321,New York,1840034016,New York,NY,polygon,America/New_York,11422,36081,Queens,184003401611229
+Ozone Park,Ozone Park,40.67813,-73.84896,New York,1840034016,New York,NY,polygon,America/New_York,11416 11417,36081,Queens,184003401611230
+JFK Airport,JFK Airport,40.64715,-73.78681,New York,1840034016,New York,NY,polygon,America/New_York,11430,36081,Queens,184003401611231
+Maspeth,Maspeth,40.72529,-73.9048,New York,1840034016,New York,NY,polygon,America/New_York,11379 11378 11377,36081,Queens,184003401611232
+Bayswater,Bayswater,40.61041,-73.76652,New York,1840034016,New York,NY,polygon,America/New_York,11691,36081,Queens,184003401611233
+Rockaway Community Park,Rockaway Community Park,40.60325,-73.78065,New York,1840034016,New York,NY,polygon,America/New_York,11691,36081,Queens,184003401611234
+Rockaway Park,Rockaway Park,40.57918,-73.83964,New York,1840034016,New York,NY,polygon,America/New_York,11694,36081,Queens,184003401611235
+Belle Harbor,Belle Harbor,40.57549,-73.85343,New York,1840034016,New York,NY,polygon,America/New_York,11694,36081,Queens,184003401611236
+Fort Tilden,Fort Tilden,40.56357,-73.88793,New York,1840034016,New York,NY,polygon,America/New_York,11697 11694,36081,Queens,184003401611237
+Broad Channel,Broad Channel,40.61768,-73.82442,New York,1840034016,New York,NY,polygon,America/New_York,11693,36081,Queens,184003401611238
+Far Rockaway,Far Rockaway,40.60117,-73.75403,New York,1840034016,New York,NY,polygon,America/New_York,11691,36081,Queens,184003401611239
+Neponsit,Neponsit,40.57142,-73.86227,New York,1840034016,New York,NY,polygon,America/New_York,11694,36081,Queens,184003401611240
+Roxbury,Roxbury,40.56672,-73.89119,New York,1840034016,New York,NY,polygon,America/New_York,11697,36081,Queens,184003401611241
+Woodside,Woodside,40.74913,-73.90393,New York,1840034016,New York,NY,polygon,America/New_York,11377,36081,Queens,184003401611242
+Ridgewood,Ridgewood,40.70565,-73.90411,New York,1840034016,New York,NY,polygon,America/New_York,11385,36081,Queens,184003401611243
+Kew Gardens,Kew Gardens,40.70732,-73.8291,New York,1840034016,New York,NY,polygon,America/New_York,11415 11418 11424,36081,Queens,184003401611244
+Middle Village,Middle Village,40.7173,-73.8762,New York,1840034016,New York,NY,polygon,America/New_York,11379,36081,Queens,184003401611245
+Rego Park,Rego Park,40.72648,-73.86086,New York,1840034016,New York,NY,polygon,America/New_York,11374,36081,Queens,184003401611246
+Elmhurst,Elmhurst,40.73946,-73.87878,New York,1840034016,New York,NY,polygon,America/New_York,11373,36081,Queens,184003401611247
+East Elmhurst,East Elmhurst,40.7642,-73.87063,New York,1840034016,New York,NY,polygon,America/New_York,11369,36081,Queens,184003401611248
+Flushing,Flushing,40.75415,-73.82145,New York,1840034016,New York,NY,polygon,America/New_York,11365 11355 11354,36081,Queens,184003401611249
+Brookville,Brookville,40.657,-73.75672,New York,1840034016,New York,NY,polygon,America/New_York,11434 11413 11422,36081,Queens,184003401611250
+North Corona,North Corona,40.75414,-73.86244,New York,1840034016,New York,NY,polygon,America/New_York,11368,36081,Queens,184003401611251
+Oakland Gardens,Oakland Gardens,40.74302,-73.75423,New York,1840034016,New York,NY,polygon,America/New_York,11364,36081,Queens,184003401611252
+St. Albans,St. Albans,40.69183,-73.76343,New York,1840034016,New York,NY,polygon,America/New_York,11434 11412 11413,36081,Queens,184003401611253
+South Ozone Park,South Ozone Park,40.67652,-73.81773,New York,1840034016,New York,NY,polygon,America/New_York,11436 11417 11419 11420,36081,Queens,184003401611254
+South Jamaica,South Jamaica,40.68062,-73.79112,New York,1840034016,New York,NY,polygon,America/New_York,11436 11434,36081,Queens,184003401611255
+Jamaica,Jamaica,40.69905,-73.79429,New York,1840034016,New York,NY,polygon,America/New_York,11451 11432 11433 11435,36081,Queens,184003401611256
+Rockaway Beach,Rockaway Beach,40.586,-73.81632,New York,1840034016,New York,NY,polygon,America/New_York,11694 11693,36081,Queens,184003401611257
+Arverne,Arverne,40.593,-73.79702,New York,1840034016,New York,NY,polygon,America/New_York,11692,36081,Queens,184003401611258
+Hillcrest,Hillcrest,40.72577,-73.80067,New York,1840034016,New York,NY,polygon,America/New_York,11439 11432 11366 11365,36081,Queens,184003401611259
+Utopia,Utopia,40.73325,-73.79133,New York,1840034016,New York,NY,polygon,America/New_York,11366 11365,36081,Queens,184003401611260
+Corona,Corona,40.74317,-73.85928,New York,1840034016,New York,NY,polygon,America/New_York,11368,36081,Queens,184003401611261
+Kew Gardens Hills,Kew Gardens Hills,40.73061,-73.82354,New York,1840034016,New York,NY,polygon,America/New_York,11367,36081,Queens,184003401611262
+Willets Point,Willets Point,40.75767,-73.84455,New York,1840034016,New York,NY,polygon,America/New_York,11368,36081,Queens,184003401611263
+Richmond Hill,Richmond Hill,40.69539,-73.83084,New York,1840034016,New York,NY,polygon,America/New_York,11416 11418 11419,36081,Queens,184003401611264
+Forest Hills,Forest Hills,40.72001,-73.84673,New York,1840034016,New York,NY,polygon,America/New_York,11375,36081,Queens,184003401611265
+Woodhaven,Woodhaven,40.69154,-73.85717,New York,1840034016,New York,NY,polygon,America/New_York,11421,36081,Queens,184003401611266
+Jackson Heights,Jackson Heights,40.75587,-73.88596,New York,1840034016,New York,NY,polygon,America/New_York,11369 11370 11372,36081,Queens,184003401611267
+Glendale,Glendale,40.69809,-73.88185,New York,1840034016,New York,NY,polygon,America/New_York,11385,36081,Queens,184003401611268
+Forest Park,Forest Park,40.70259,-73.8523,New York,1840034016,New York,NY,polygon,America/New_York,11418 11421,36081,Queens,184003401611269
+Bayside,Bayside,40.7627,-73.77107,New York,1840034016,New York,NY,polygon,America/New_York,11364 11360 11361,36081,Queens,184003401611270
+Alley Pond Park,Alley Pond Park,40.75361,-73.74631,New York,1840034016,New York,NY,polygon,America/New_York,11364 11362,36081,Queens,184003401611271
+Cunningham Park,Cunningham Park,40.73353,-73.7682,New York,1840034016,New York,NY,polygon,America/New_York,11366,36081,Queens,184003401611272
+Edgemere,Edgemere,40.59392,-73.77735,New York,1840034016,New York,NY,polygon,America/New_York,11692 11691,36081,Queens,184003401611273
+Flushing Meadows Corona Park,Flushing Meadows Corona Park,40.73744,-73.83936,New York,1840034016,New York,NY,polygon,America/New_York,11368 11375,36081,Queens,184003401611274
+Fort Totten Park,Fort Totten Park,40.79105,-73.77952,New York,1840034016,New York,NY,polygon,America/New_York,11360 11359,36081,Queens,184003401611275
+Douglaston,Douglaston,40.75902,-73.73193,New York,1840034016,New York,NY,polygon,America/New_York,11362,36081,Queens,184003401611276
+Bellerose,Bellerose,40.73244,-73.7283,New York,1840034016,New York,NY,polygon,America/New_York,11428 11427 11426,36081,Queens,184003401611277
+City Island,City Island,40.84693,-73.78665,New York,1840034016,New York,NY,polygon,America/New_York,10464,36005,Bronx,184003401611278
+Spuyten Duyvil,Spuyten Duyvil,40.88092,-73.91688,New York,1840034016,New York,NY,polygon,America/New_York,10463,36005,Bronx,184003401611279
+Van Cortlandt Park,Van Cortlandt Park,40.89708,-73.88665,New York,1840034016,New York,NY,polygon,America/New_York,10470 10467 10463,36005,Bronx,184003401611280
+Riverdale,Riverdale,40.89292,-73.91278,New York,1840034016,New York,NY,polygon,America/New_York,10471 10463,36005,Bronx,184003401611281
+Woodlawn Heights,Woodlawn Heights,40.8986,-73.86767,New York,1840034016,New York,NY,polygon,America/New_York,10470,36005,Bronx,184003401611282
+Fordham,Fordham,40.85689,-73.89969,New York,1840034016,New York,NY,polygon,America/New_York,10453 10457 10458 10468,36005,Bronx,184003401611283
+University Heights,University Heights,40.85844,-73.91031,New York,1840034016,New York,NY,polygon,America/New_York,10453 10468,36005,Bronx,184003401611284
+Morris Heights,Morris Heights,40.84994,-73.91805,New York,1840034016,New York,NY,polygon,America/New_York,10453 10452,36005,Bronx,184003401611285
+Hunts Point,Hunts Point,40.81054,-73.88454,New York,1840034016,New York,NY,polygon,America/New_York,10474,36005,Bronx,184003401611286
+Port Morris,Port Morris,40.80347,-73.91643,New York,1840034016,New York,NY,polygon,America/New_York,10454,36005,Bronx,184003401611287
+Mott Haven,Mott Haven,40.8112,-73.91904,New York,1840034016,New York,NY,polygon,America/New_York,10451 10455 10454,36005,Bronx,184003401611288
+Soundview,Soundview,40.82511,-73.87128,New York,1840034016,New York,NY,polygon,America/New_York,10473 10472,36005,Bronx,184003401611289
+East Morrisania,East Morrisania,40.83423,-73.89017,New York,1840034016,New York,NY,polygon,America/New_York,10457 10459 10460,36005,Bronx,184003401611290
+Throggs Neck,Throggs Neck,40.8202,-73.8222,New York,1840034016,New York,NY,polygon,America/New_York,10465,36005,Bronx,184003401611291
+Country Club,Country Club,40.84173,-73.82024,New York,1840034016,New York,NY,polygon,America/New_York,10465,36005,Bronx,184003401611292
+Cemetery,Cemetery,40.8893,-73.8719,New York,1840034016,New York,NY,polygon,America/New_York,10470 10467,36005,Bronx,184003401611293
+Norwood,Norwood,40.87643,-73.87754,New York,1840034016,New York,NY,polygon,America/New_York,10467,36005,Bronx,184003401611294
+Wakefield,Wakefield,40.89535,-73.85223,New York,1840034016,New York,NY,polygon,America/New_York,10470 10466,36005,Bronx,184003401611295
+Pelham Gardens,Pelham Gardens,40.8619,-73.84177,New York,1840034016,New York,NY,polygon,America/New_York,10469,36005,Bronx,184003401611296
+Baychester,Baychester,40.87175,-73.84043,New York,1840034016,New York,NY,polygon,America/New_York,10469,36005,Bronx,184003401611297
+Eastchester,Eastchester,40.88389,-73.82826,New York,1840034016,New York,NY,polygon,America/New_York,10475 10466,36005,Bronx,184003401611298
+Co-op City,Co-op City,40.86996,-73.82664,New York,1840034016,New York,NY,polygon,America/New_York,10475,36005,Bronx,184003401611299
+Williamsbridge,Williamsbridge,40.87724,-73.85778,New York,1840034016,New York,NY,polygon,America/New_York,10467 10469,36005,Bronx,184003401611300
+Westchester Square,Westchester Square,40.84041,-73.84621,New York,1840034016,New York,NY,polygon,America/New_York,10462 10461,36005,Bronx,184003401611301
+Morris Park,Morris Park,40.85153,-73.8517,New York,1840034016,New York,NY,polygon,America/New_York,10462 10461,36005,Bronx,184003401611302
+Schuylerville,Schuylerville,40.83691,-73.83316,New York,1840034016,New York,NY,polygon,America/New_York,10465 10461,36005,Bronx,184003401611303
+Unionport,Unionport,40.82905,-73.85099,New York,1840034016,New York,NY,polygon,America/New_York,10473 10472 10462,36005,Bronx,184003401611304
+Castle Hill,Castle Hill,40.81861,-73.84878,New York,1840034016,New York,NY,polygon,America/New_York,10473,36005,Bronx,184003401611305
+Clason Point,Clason Point,40.81053,-73.85719,New York,1840034016,New York,NY,polygon,America/New_York,10473,36005,Bronx,184003401611306
+Longwood,Longwood,40.81927,-73.90034,New York,1840034016,New York,NY,polygon,America/New_York,10455 10459,36005,Bronx,184003401611307
+Melrose,Melrose,40.82033,-73.91769,New York,1840034016,New York,NY,polygon,America/New_York,10451 10455,36005,Bronx,184003401611308
+Concourse,Concourse,40.82807,-73.92562,New York,1840034016,New York,NY,polygon,America/New_York,10452 10451,36005,Bronx,184003401611309
+Highbridge,Highbridge,40.83686,-73.92776,New York,1840034016,New York,NY,polygon,America/New_York,10452,36005,Bronx,184003401611310
+Mt Eden,Mt Eden,40.84155,-73.91741,New York,1840034016,New York,NY,polygon,America/New_York,10452,36005,Bronx,184003401611311
+Concourse Village,Concourse Village,40.82824,-73.91763,New York,1840034016,New York,NY,polygon,America/New_York,10451 10456,36005,Bronx,184003401611312
+Morrisania,Morrisania,40.832,-73.90349,New York,1840034016,New York,NY,polygon,America/New_York,10457 10456,36005,Bronx,184003401611313
+Claremont Village,Claremont Village,40.84001,-73.90923,New York,1840034016,New York,NY,polygon,America/New_York,10457 10456,36005,Bronx,184003401611314
+Mt. Hope,Mt. Hope,40.84853,-73.9066,New York,1840034016,New York,NY,polygon,America/New_York,10453 10457,36005,Bronx,184003401611315
+Parkchester,Parkchester,40.83769,-73.8611,New York,1840034016,New York,NY,polygon,America/New_York,10462 10460,36005,Bronx,184003401611316
+Van Nest,Van Nest,40.84399,-73.86783,New York,1840034016,New York,NY,polygon,America/New_York,10462 10460,36005,Bronx,184003401611317
+Bronx Park,Bronx Park,40.85555,-73.87682,New York,1840034016,New York,NY,polygon,America/New_York,10458 10467 10460,36005,Bronx,184003401611318
+Tremont,Tremont,40.84647,-73.89355,New York,1840034016,New York,NY,polygon,America/New_York,10457 10460,36005,Bronx,184003401611319
+Belmont/Little Italy,Belmont/Little Italy,40.85398,-73.88868,New York,1840034016,New York,NY,polygon,America/New_York,10457 10458,36005,Bronx,184003401611320
+West Farms,West Farms,40.84244,-73.8817,New York,1840034016,New York,NY,polygon,America/New_York,10460,36005,Bronx,184003401611321
+Kingsbridge Heights,Kingsbridge Heights,40.87786,-73.89757,New York,1840034016,New York,NY,polygon,America/New_York,10463 10468,36005,Bronx,184003401611322
+Kingsbridge,Kingsbridge,40.88193,-73.90425,New York,1840034016,New York,NY,polygon,America/New_York,10463,36005,Bronx,184003401611323
+Fordham Manor,Fordham Manor,40.86469,-73.89754,New York,1840034016,New York,NY,polygon,America/New_York,10458 10468,36005,Bronx,184003401611324
+Bedford Park,Bedford Park,40.87242,-73.88845,New York,1840034016,New York,NY,polygon,America/New_York,10458 10468,36005,Bronx,184003401611325
+North Riverdale,North Riverdale,40.90747,-73.90466,New York,1840034016,New York,NY,polygon,America/New_York,10471,36005,Bronx,184003401611326
+Fieldston,Fieldston,40.89432,-73.9028,New York,1840034016,New York,NY,polygon,America/New_York,10471,36005,Bronx,184003401611327
+Pelham Bay Park,Pelham Bay Park,40.8692,-73.80776,New York,1840034016,New York,NY,polygon,America/New_York,10464 10465,36005,Bronx,184003401611328
+Pelham Bay,Pelham Bay,40.84982,-73.83468,New York,1840034016,New York,NY,polygon,America/New_York,10461,36005,Bronx,184003401611329
+Pelham Parkway,Pelham Parkway,40.85466,-73.86569,New York,1840034016,New York,NY,polygon,America/New_York,10462 10461,36005,Bronx,184003401611330
+Allerton,Allerton,40.86458,-73.86085,New York,1840034016,New York,NY,polygon,America/New_York,10467 10469,36005,Bronx,184003401611331
+Edenwald,Edenwald,40.88695,-73.84015,New York,1840034016,New York,NY,polygon,America/New_York,10466,36005,Bronx,184003401611332
+Olinville,Olinville,40.87817,-73.8675,New York,1840034016,New York,NY,polygon,America/New_York,10467,36005,Bronx,184003401611333
+East New York,East New York,40.66375,-73.87725,New York,1840034016,New York,NY,polygon,America/New_York,11207 11208 11239,36047,Kings,184003401611334
+Bushwick,Bushwick,40.6942,-73.91651,New York,1840034016,New York,NY,polygon,America/New_York,11207 11206 11221 11237,36047,Kings,184003401611335
+Prospect Heights,Prospect Heights,40.67792,-73.96881,New York,1840034016,New York,NY,polygon,America/New_York,11217 11238,36047,Kings,184003401611336
+Park Slope,Park Slope,40.67354,-73.97864,New York,1840034016,New York,NY,polygon,America/New_York,11217 11215,36047,Kings,184003401611337
+Red Hook,Red Hook,40.67526,-74.00936,New York,1840034016,New York,NY,polygon,America/New_York,11231,36047,Kings,184003401611338
+Clinton Hill,Clinton Hill,40.68928,-73.96451,New York,1840034016,New York,NY,polygon,America/New_York,11205 11238,36047,Kings,184003401611339
+Columbia Street Waterfront District,Columbia Street Waterfront District,40.68608,-74.00304,New York,1840034016,New York,NY,polygon,America/New_York,11201 11231,36047,Kings,184003401611340
+Brooklyn Heights,Brooklyn Heights,40.69581,-73.99517,New York,1840034016,New York,NY,polygon,America/New_York,11201,36047,Kings,184003401611341
+East Williamsburg,East Williamsburg,40.71421,-73.93248,New York,1840034016,New York,NY,polygon,America/New_York,11206 11222 11211 11237,36047,Kings,184003401611342
+Mill Basin,Mill Basin,40.60851,-73.91105,New York,1840034016,New York,NY,polygon,America/New_York,11234,36047,Kings,184003401611343
+Starrett City,Starrett City,40.64605,-73.87968,New York,1840034016,New York,NY,polygon,America/New_York,11207 11239,36047,Kings,184003401611344
+Bensonhurst,Bensonhurst,40.6129,-73.99477,New York,1840034016,New York,NY,polygon,America/New_York,11228 11214 11204,36047,Kings,184003401611345
+Greenpoint,Greenpoint,40.72897,-73.94903,New York,1840034016,New York,NY,polygon,America/New_York,11222,36047,Kings,184003401611346
+Sea Gate,Sea Gate,40.57713,-74.00736,New York,1840034016,New York,NY,polygon,America/New_York,11224,36047,Kings,184003401611347
+Coney Island,Coney Island,40.5765,-73.98546,New York,1840034016,New York,NY,polygon,America/New_York,11224,36047,Kings,184003401611348
+Brighton Beach,Brighton Beach,40.57891,-73.96069,New York,1840034016,New York,NY,polygon,America/New_York,11235,36047,Kings,184003401611349
+Manhattan Beach,Manhattan Beach,40.5784,-73.9432,New York,1840034016,New York,NY,polygon,America/New_York,11235,36047,Kings,184003401611350
+Gerritsen Beach,Gerritsen Beach,40.59039,-73.92584,New York,1840034016,New York,NY,polygon,America/New_York,11229,36047,Kings,184003401611351
+Bath Beach,Bath Beach,40.60366,-74.00661,New York,1840034016,New York,NY,polygon,America/New_York,11228 11214,36047,Kings,184003401611352
+Fort Hamilton,Fort Hamilton,40.60745,-74.02637,New York,1840034016,New York,NY,polygon,America/New_York,11209,36047,Kings,184003401611353
+Windsor Terrace,Windsor Terrace,40.65361,-73.97742,New York,1840034016,New York,NY,polygon,America/New_York,11215 11218,36047,Kings,184003401611354
+Bergen Beach,Bergen Beach,40.61841,-73.9051,New York,1840034016,New York,NY,polygon,America/New_York,11234,36047,Kings,184003401611355
+Williamsburg,Williamsburg,40.71051,-73.95436,New York,1840034016,New York,NY,polygon,America/New_York,11249 11206 11211,36047,Kings,184003401611356
+DUMBO,DUMBO,40.70316,-73.98886,New York,1840034016,New York,NY,polygon,America/New_York,11201,36047,Kings,184003401611357
+Fort Greene,Fort Greene,40.69034,-73.97427,New York,1840034016,New York,NY,polygon,America/New_York,11205 11217 11238,36047,Kings,184003401611358
+Vinegar Hill,Vinegar Hill,40.70366,-73.98216,New York,1840034016,New York,NY,polygon,America/New_York,11201,36047,Kings,184003401611359
+Brooklyn Navy Yard,Brooklyn Navy Yard,40.70117,-73.97159,New York,1840034016,New York,NY,polygon,America/New_York,11249 11205,36047,Kings,184003401611360
+Downtown,Downtown,40.69488,-73.98523,New York,1840034016,New York,NY,polygon,America/New_York,11201,36047,Kings,184003401611361
+South Slope,South Slope,40.66414,-73.98497,New York,1840034016,New York,NY,polygon,America/New_York,11215,36047,Kings,184003401611362
+Gowanus,Gowanus,40.67515,-73.99053,New York,1840034016,New York,NY,polygon,America/New_York,11231 11217 11215,36047,Kings,184003401611363
+Sunset Park,Sunset Park,40.64488,-74.01307,New York,1840034016,New York,NY,polygon,America/New_York,11220 11232,36047,Kings,184003401611364
+Greenwood Heights,Greenwood Heights,40.66022,-74.00095,New York,1840034016,New York,NY,polygon,America/New_York,11215 11232,36047,Kings,184003401611365
+Dyker Heights,Dyker Heights,40.62043,-74.01336,New York,1840034016,New York,NY,polygon,America/New_York,11228 11219,36047,Kings,184003401611366
+Bay Ridge,Bay Ridge,40.62611,-74.0299,New York,1840034016,New York,NY,polygon,America/New_York,11209 11220,36047,Kings,184003401611367
+Kensington,Kensington,40.63942,-73.97536,New York,1840034016,New York,NY,polygon,America/New_York,11230 11218,36047,Kings,184003401611368
+Borough Park,Borough Park,40.63323,-73.9923,New York,1840034016,New York,NY,polygon,America/New_York,11218 11219 11204,36047,Kings,184003401611369
+Mapleton,Mapleton,40.61983,-73.98021,New York,1840034016,New York,NY,polygon,America/New_York,11204,36047,Kings,184003401611370
+Cypress Hill,Cypress Hill,40.68433,-73.88109,New York,1840034016,New York,NY,polygon,America/New_York,11207 11208,36047,Kings,184003401611371
+Bedford-Stuyvesant,Bedford-Stuyvesant,40.68685,-73.93745,New York,1840034016,New York,NY,polygon,America/New_York,11205 11206 11221 11216 11233,36047,Kings,184003401611372
+Prospect Lefferts Gardens,Prospect Lefferts Gardens,40.65937,-73.95511,New York,1840034016,New York,NY,polygon,America/New_York,11226 11225,36047,Kings,184003401611373
+Gravesend,Gravesend,40.59442,-73.98154,New York,1840034016,New York,NY,polygon,America/New_York,11223 11214,36047,Kings,184003401611374
+Canarsie,Canarsie,40.63879,-73.89996,New York,1840034016,New York,NY,polygon,America/New_York,11236,36047,Kings,184003401611375
+Flatlands,Flatlands,40.62441,-73.93056,New York,1840034016,New York,NY,polygon,America/New_York,11210 11234,36047,Kings,184003401611376
+Flatbush,Flatbush,40.64184,-73.95998,New York,1840034016,New York,NY,polygon,America/New_York,11226 11230 11210 11218,36047,Kings,184003401611377
+Sheepshead Bay,Sheepshead Bay,40.5957,-73.94792,New York,1840034016,New York,NY,polygon,America/New_York,11229 11223 11235,36047,Kings,184003401611378
+Midwood,Midwood,40.62006,-73.96067,New York,1840034016,New York,NY,polygon,America/New_York,11230 11210,36047,Kings,184003401611379
+East Flatbush,East Flatbush,40.64846,-73.93359,New York,1840034016,New York,NY,polygon,America/New_York,11203 11226 11212 11210,36047,Kings,184003401611380
+Crown Heights,Crown Heights,40.67134,-73.9449,New York,1840034016,New York,NY,polygon,America/New_York,11225 11213 11216 11238,36047,Kings,184003401611381
+Brownsville,Brownsville,40.66574,-73.91203,New York,1840034016,New York,NY,polygon,America/New_York,11212 11233,36047,Kings,184003401611382
+Cobble Hill,Cobble Hill,40.68758,-73.99665,New York,1840034016,New York,NY,polygon,America/New_York,11201 11231,36047,Kings,184003401611383
+Carroll Gardens,Carroll Gardens,40.68031,-73.99736,New York,1840034016,New York,NY,polygon,America/New_York,11231,36047,Kings,184003401611384
+Boerum Hill,Boerum Hill,40.68582,-73.98611,New York,1840034016,New York,NY,polygon,America/New_York,11201 11217,36047,Kings,184003401611385
+Prospect Park,Prospect Park,40.66244,-73.96895,New York,1840034016,New York,NY,polygon,America/New_York,11238,36047,Kings,184003401611386
+Marine Park,Marine Park,40.60392,-73.92584,New York,1840034016,New York,NY,polygon,America/New_York,11234,36047,Kings,184003401611387
+Greenwood Cemetery,Greenwood Cemetery,40.65215,-73.99026,New York,1840034016,New York,NY,polygon,America/New_York,11215,36047,Kings,184003401611388
+New Springville,New Springville,40.57925,-74.15559,New York,1840034016,New York,NY,polygon,America/New_York,10314 10308 10306,36085,Richmond,184003401611389
+Bronx,Bronx,40.85369,-73.86761,New York,1840034016,New York,NY,polygon,America/New_York,10475 10474 10471 10470 10473 10472 10453 10452 10451 10457 10456 10455 10454 10459 10458 10466 10467 10464 10465 10462 10463 10460 10461 10468 10469 11370,36005,Bronx,184003401610100
+Brooklyn,Brooklyn,40.64558,-73.94976,New York,1840034016,New York,NY,polygon,America/New_York,11249 11201 11203 11205 11207 11206 11209 11208 11229 11228 11226 11225 11224 11223 11222 11221 11220 11239 11231 11230 11212 11213 11210 11211 11216 11217 11214 11215 11218 11219 11238 11232 11233 11234 11235 11236 11237 11204,36047,Kings,184003401610101
+Queens,Queens,40.72048,-73.81774,New York,1840034016,New York,NY,polygon,America/New_York,11451 11439 11432 11433 11430 11436 11434 11435 11411 11412 11413 11414 11415 11416 11417 11418 11419 11385 11368 11369 11366 11367 11364 11365 11362 11363 11360 11361 11101 11105 11001 11004 11109 11102 11103 11106 11104 11429 11428 11421 11420 11423 11422 11424 11427 11426 11379 11378 11375 11374 11377 11371 11370 11373 11372 11359 11358 11357 11356 11355 11354 11697 11694 11692 11693 11691 11005,36081,Queens,184003401610102
+Manhattan,Manhattan,40.77809,-73.96831,New York,1840034016,New York,NY,polygon,America/New_York,10103 10128 10169 10168 10167 10165 10162 10028 10029 10026 10027 10024 10025 10022 10023 10020 10021 10004 10005 10006 10007 10001 10002 10003 10009 10065 10069 10282 10280 10040 10044 10199 10119 10115 10112 10110 10111 10152 10153 10154 10170 10171 10172 10173 10174 10177 10039 10038 10035 10034 10037 10036 10031 10030 10033 10032 10019 10018 10013 10012 10011 10010 10017 10016 10014 10271 10279 10278 10075,36061,New York,184003401610103
+Staten Island,Staten Island,40.58082,-74.15341,New York,1840034016,New York,NY,polygon,America/New_York,10310 10311 10312 10314 10309 10308 10307 10306 10305 10304 10303 10302 10301,36085,Richmond,184003401610104
