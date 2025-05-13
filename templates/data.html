@@ -8,7 +8,22 @@
 <body>
     <h1>NYC Crime Statistics</h1>
     <h2>January 2025 - March 2025</h2>
+    <li>Total Arrests: {{ total_records }}</li>
+    <li>Max Arrests In One Area: {{ max_arrests }}</li>
+    <li>Coordinates of locations with the most number of arrests (rounded to 2 decimals): </li>
+    <ul>
+        {% for coord in top_coords %}
+            <li>Lat: {{ coord.lat }}, Lon: {{ coord.lon }}, Arrests: {{ coord.count }}</li>
+        {% endfor %}
+    </ul>
+    <li>The map only shows locations with at least 10 arrests, which includes {{ filtered_points }} locations.</li>
+
+    <br><br>
+    <button onclick="window.location.href='/'">Home</button>
+    <button onclick="window.location.href='/map'">View Map</button>
+    <!-- <h2>Crime Data</h2>
     <p>Total Arrests: {{ total_records }}</p>
-    <p>Max Arrests: {{ max_arrests_coords }}</p>
+    <p>Max Arrests In One Area: {{ max_arrests }}</p>
+    <p>The map only shows locations with at least 10 arrests, which includes {{ filtered_points }} locations.</p> -->
 </body>
 </html>
