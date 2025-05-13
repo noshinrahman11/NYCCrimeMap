@@ -66,5 +66,28 @@ def show_map():
     nyc_map.save("templates/map.html")
     return render_template("map.html")
 
+@app.route('/about')
+def about():
+    return render_template("about.html")
+
+@app.route('/data')
+def data_summary():
+    df = pd.read_csv("NYPD_Arrest_Data__Year_to_Date_.csv")
+    total_records = len(df)
+    valid_coords = df[(df['Latitude'] != 0) & (df['Longitude'] != 0)]
+    filtered = valid_coords.copy()
+    filtered['rounded_lat'] = filtered['Latitude'].round(2)
+    filtered['rounded_lon'] = filtered['Longitude'].round(2)
+    arrest_counts = filtered.groupby(['rounded_lat', 'rounded_lon']).size().reset_index(name='count')
+    filtered_points = len(arrest_counts[arrest_counts['count'] >= 10])
+    max_arrests = arrest_counts['count'].max()
+
+    return render_template("data.html",
+        total_records=total_records,
+        filtered_points=filtered_points,
+        max_arrests=max_arrests
+    )
+
+
 if __name__ == '__main__':
     app.run(debug=True)
