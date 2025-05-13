@@ -35,6 +35,11 @@ def show_map():
     for _, row in arrest_counts.iterrows():
         radius = max(4, min(12, row['normalized_count'] * 20))  # Size scaled to intensity
 
+        popup_text = (
+            f"<b>Latitude:</b> {row['rounded_lat']}<br>"
+            f"<b>Longitude:</b> {row['rounded_lon']}<br>"
+            f"<b>Arrests:</b> {row['count']}"
+        )
         folium.CircleMarker(
             location=[row['rounded_lat'], row['rounded_lon']],
             radius=radius,
@@ -42,7 +47,7 @@ def show_map():
             fill=True,
             fill_color=colormap(row['normalized_count']),
             fill_opacity=0.6,
-            popup=f"Arrests: {row['count']}"
+            popup=popup_text
         ).add_to(nyc_map)
 
     # Add static legend (HTML)
@@ -69,6 +74,68 @@ def show_map():
     # Save map to HTML and render
     nyc_map.save("templates/map.html")
     return render_template("map.html")
+
+
+# @app.route('/map2')
+# def map():
+#     # Load arrest data
+#     arrests_df = pd.read_csv("NYPD_Arrest_Data__Year_to_Date_.csv")
+#     arrests_df = arrests_df[(arrests_df['Latitude'] != 0) & (arrests_df['Longitude'] != 0)]
+
+#     # Round coordinates
+#     arrests_df['rounded_lat'] = arrests_df['Latitude'].round(3)
+#     arrests_df['rounded_lon'] = arrests_df['Longitude'].round(3)
+
+#     # Load neighborhood dataset
+#     neighborhoods_df = pd.read_csv("nyc_neighborhoods.csv")  # replace with your actual file name
+#     neighborhoods_df['rounded_lat'] = neighborhoods_df['lat'].round(3)
+#     neighborhoods_df['rounded_lon'] = neighborhoods_df['lng'].round(3)
+
+#     # Merge to attach neighborhood names
+#     merged_df = pd.merge(
+#         arrests_df,
+#         neighborhoods_df[['neighborhood', 'rounded_lat', 'rounded_lon']],
+#         on=['rounded_lat', 'rounded_lon'],
+#         how='left'
+#     )
+
+#     # Group by coordinates and neighborhood
+#     arrest_counts = (
+#         merged_df.groupby(['rounded_lat', 'rounded_lon', 'neighborhood'])
+#         .size()
+#         .reset_index(name='count')
+#     )
+
+#     # Normalize for coloring
+#     min_count = arrest_counts['count'].min()
+#     max_count = arrest_counts['count'].max()
+#     arrest_counts['normalized_count'] = (arrest_counts['count'] - min_count) / (max_count - min_count)
+
+#     # Create Folium map
+#     nyc_map = folium.Map(location=[40.7128, -74.0060], zoom_start=11)
+
+#     # Use shades of red
+#     colormap = folium.LinearColormap(['#ffcccc', '#ff0000'], vmin=0, vmax=1)
+
+#     # Add circles
+#     for _, row in arrest_counts.iterrows():
+#         popup_text = f"{row['neighborhood'] if pd.notna(row['neighborhood']) else 'Unknown'}<br>Arrests: {row['count']}"
+#         folium.CircleMarker(
+#             location=[row['rounded_lat'], row['rounded_lon']],
+#             radius=row['normalized_count'] * 20,
+#             popup=popup_text,
+#             color=colormap(row['normalized_count']),
+#             fill=True,
+#             fill_color=colormap(row['normalized_count']),
+#             fill_opacity=0.6
+#         ).add_to(nyc_map)
+
+#     # Save map
+#     nyc_map.save("templates/map.html")
+#     return render_template("map.html")
+
+
+
 
 @app.route('/data')
 def data_summary():
