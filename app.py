@@ -5,6 +5,10 @@ import folium
 app = Flask(__name__)
 
 @app.route('/')
+def index():
+    return render_template("index.html")
+
+@app.route('/map')
 def map():
     df = pd.read_csv("NYPD_Arrest_Data__Year_to_Date_.csv")
     df = df[(df['Latitude'] != 0) & (df['Longitude'] != 0)] # remove rows with zero coordinates
@@ -12,7 +16,7 @@ def map():
     df['rounded_lon'] = df['Longitude'].round(2)
 
     arrest_counts = df.groupby(['rounded_lat', 'rounded_lon']).size().reset_index(name='count')
-    arrest_counts = arrest_counts[arrest_counts['count'] >= 10]
+    arrest_counts = arrest_counts[arrest_counts['count'] >= 10] # filter out areas with less than 10 arrests
 
     # Create a Folium map centered on NYC
     nyc_map = folium.Map(location=[40.7128, -74.0060], zoom_start=10)
@@ -44,6 +48,15 @@ def map():
 
     nyc_map.save("templates/map.html")
     return render_template("map.html")
+
+@app.route('/stats')
+def stats():
+    df = pd.read_csv("NYPD_Arrest_Data__Year_to_Date_.csv")
+    total_arrests = len(df)
+  
+    
+
+    return render_template("stats.html", total_arrests=total_arrests)
 
 if __name__ == '__main__':
     app.run(debug=True)
