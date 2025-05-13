@@ -1,6 +1,12 @@
 from flask import Flask, render_template
 import pandas as pd
 import folium
+import geopandas as gpd
+from shapely.geometry import Point
+from geopy.geocoders import Nominatim
+import time
+import os
+import json
 
 app = Flask(__name__)
 
@@ -78,21 +84,55 @@ def data_summary():
     filtered = valid_coords.copy()
     filtered['rounded_lat'] = filtered['Latitude'].round(2)
     filtered['rounded_lon'] = filtered['Longitude'].round(2)
+
+    # Count arrests by location
     arrest_counts = filtered.groupby(['rounded_lat', 'rounded_lon']).size().reset_index(name='count')
     filtered_points = len(arrest_counts[arrest_counts['count'] >= 10])
     max_arrests = arrest_counts['count'].max()
-    
-    # Top 10 coordinates with the most arrests using a list
-    top_coords = []
+
+    # Get top 10 locations
     top_10 = arrest_counts.sort_values('count', ascending=False).head(10)
 
+    # Load or initialize cache
+    cache_file = 'geocache.json'
+    if os.path.exists(cache_file):
+        with open(cache_file, 'r') as f:
+            geocache = json.load(f)
+    else:
+        geocache = {}
+
+    geolocator = Nominatim(user_agent="nyc-crime-map")
+    top_coords = []
+
     for _, row in top_10.iterrows():
-        coord_data = {
-            'lat': row['rounded_lat'],
-            'lon': row['rounded_lon'],
-            'count': int(row['count'])  
-        }
-        top_coords.append(coord_data)
+        lat = round(row['rounded_lat'], 2)
+        lon = round(row['rounded_lon'], 2)
+        key = f"{lat},{lon}"
+        count = int(row['count'])
+
+        if key in geocache:
+            neighborhood = geocache[key]
+        else:
+            try:
+                location = geolocator.reverse((lat, lon), exactly_one=True, timeout=10)
+                neighborhood = location.raw['address'].get('neighbourhood') or \
+                               location.raw['address'].get('suburb') or \
+                               location.raw['address'].get('city_district') or 'Unknown'
+            except Exception:
+                neighborhood = 'Unknown'
+            geocache[key] = neighborhood
+            time.sleep(1)  # Respect rate limits
+
+        top_coords.append({
+            'lat': lat,
+            'lon': lon,
+            'count': count,
+            'neighborhood': neighborhood
+        })
+
+    # Save updated cache
+    with open(cache_file, 'w') as f:
+        json.dump(geocache, f, indent=2)
 
     return render_template("data.html",
         total_records=total_records,
