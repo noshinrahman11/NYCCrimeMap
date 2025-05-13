@@ -70,12 +70,35 @@ def show_map():
     nyc_map.save("templates/map.html")
     return render_template("map.html")
 
+@app.route('/data')
+def data_summary():
+    df = pd.read_csv("NYPD_Arrest_Data__Year_to_Date_.csv")
+    total_records = len(df)
+    valid_coords = df[(df['Latitude'] != 0) & (df['Longitude'] != 0)]
+    filtered = valid_coords.copy()
+    filtered['rounded_lat'] = filtered['Latitude'].round(2)
+    filtered['rounded_lon'] = filtered['Longitude'].round(2)
+    arrest_counts = filtered.groupby(['rounded_lat', 'rounded_lon']).size().reset_index(name='count')
+    filtered_points = len(arrest_counts[arrest_counts['count'] >= 10])
+    max_arrests = arrest_counts['count'].max()
+    
+    # Top 10 coordinates with the most arrests using a list
+    top_coords = []
+    top_10 = arrest_counts.sort_values('count', ascending=False).head(10)
 
+    for _, row in top_10.iterrows():
+        coord_data = {
+            'lat': row['rounded_lat'],
+            'lon': row['rounded_lon'],
+            'count': int(row['count'])  
+        }
+        top_coords.append(coord_data)
 
     return render_template("data.html",
         total_records=total_records,
         filtered_points=filtered_points,
-        max_arrests=max_arrests
+        max_arrests=max_arrests,
+        top_coords=top_coords
     )
 
 
