@@ -5,6 +5,10 @@ import folium
 app = Flask(__name__)
 
 @app.route('/')
+def index():
+    return render_template("index.html")
+
+@app.route('/map')
 def show_map():
     # Load dataset
     df = pd.read_csv("NYPD_Arrest_Data__Year_to_Date_.csv")
