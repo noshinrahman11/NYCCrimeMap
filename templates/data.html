@@ -11,7 +11,7 @@
     <li>Total Arrests: {{ total_records }}</li>
     <li>Max Arrests In One Area: {{ max_arrests }}</li>
     <li>Top 10 areas with the most arrests (rounded to 2 decimals):</li>
-<<ul>
+<ul>
     {% for coord in top_coords %}
         <li>
             Neighborhood: {{ coord.neighborhood }},
