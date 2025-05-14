@@ -18,7 +18,7 @@ def index():
 def show_map():
     # Load dataset
     df = pd.read_csv("NYPD_Arrest_Data__Year_to_Date_.csv")
-    df = df[(df['Latitude'] != 0) & (df['Longitude'] != 0)]  # Filter out invalid coordinates
+    df = df[(df['Latitude'] != 0) & (df['Longitude'] != 0)].copy()  # Filter out invalid coordinates
 
     # Round coordinates to group nearby arrests
     df['rounded_lat'] = df['Latitude'].round(2)
