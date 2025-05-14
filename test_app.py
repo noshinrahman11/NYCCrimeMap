@@ -81,7 +81,7 @@ class TestApp(unittest.TestCase):
                 data = json.load(f)
             except json.JSONDecodeError as e:
                 self.fail(f"geocache.json is not valid JSON: {e}")
-        self.assertIsInstance(data, dict, "geocache.json does not contain a json object")
+        self.assertIsInstance(data, dict, "geocache.json does not contain a dictionary")
 
 
 if __name__ == '__main__':
